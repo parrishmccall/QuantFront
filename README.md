@@ -1,6 +1,5 @@
 # QuantFront
-Fundamental stock market valuation tools. Work in progress.
-Personal project for stock market valuation. Intended for general python practice as well as practice with pandas. Divided into data download, data merging, and valuation folders. 
+Fundamental stock market valuation tools. Intended for general python practice as well as practice with pandas. Divided into data download, data merging, and valuation folders. Not intended for prod.
 
 get_data folder downloads the data from simfin. You'll need an API key to acccess it. Several different download methods including quarterly and yearly reports as well as shares outstanding for each quarter and share price history. All fundamental data is standardized for ease of use. 
 
